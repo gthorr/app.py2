@@ -1,4 +1,4 @@
 streamlit
-iceweather
 pandas
 requests
+iceweather==0.2.3
