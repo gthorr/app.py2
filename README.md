@@ -1,0 +1,4 @@
+streamlit
+iceweather
+pandas
+requests
